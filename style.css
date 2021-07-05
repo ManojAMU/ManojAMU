@@ -6,9 +6,10 @@
 }
 .nameplate{
     display: inline-block;
-    position: relative;
-    left: 800px;
-    width:480px;
+    position: absolute;
+    right: 0;
+    top: 30px;
+    width:450px;
     background-color: #FAEBE0;
     padding: 10px;
     border: 5px;
