@@ -22,7 +22,7 @@
 .resize{
     width: 50px;
     height: 40px;
-    float: right;
+    float: center;
 }
 .footer{
     background-color: bisque;
