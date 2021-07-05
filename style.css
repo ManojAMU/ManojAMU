@@ -1,0 +1,47 @@
+.background{
+    background-color: #B5EAEA;
+    padding: 20px;
+    border: 10px;
+    margin: 5px;
+}
+.nameplate{
+    display: inline-block;
+    position: relative;
+    left: 800px;
+    width:480px;
+    background-color: #FAEBE0;
+    padding: 10px;
+    border: 5px;
+    margin: 3px;
+    
+}
+#name{
+    font-family: 'sacramento',cursive;
+}
+.resize{
+    width: 50px;
+    height: 40px;
+    float: right;
+}
+.footer{
+    background-color: bisque;
+    padding: 6px;
+    border: 40px;
+}
+.profilepic{
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid;
+    padding: 5px;
+}
+.midsec{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #EDF6E5;
+}
+h2{
+    text-align: center;
+    background-color:#FAEBE0 ;
+    padding: 10px;
+    border: 5px;
+    margin: 3px;
+}
